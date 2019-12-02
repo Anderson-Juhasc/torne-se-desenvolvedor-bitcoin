@@ -6,11 +6,16 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 
 ## Sobre o Ministrando
 
+Anderson Juhasc começou a trabalhar profissional desde 2009 como Desenvolvedor Front-End onde aprendeu inúmeros conceitos de Design para Web, pouco tempo depois foi se tornando cada vez mais um Desenvolvedor Full-Stack utilizando primeiramente da linguagem PHP, focando depois na linguagem Node.js e no mercado de Criptomoedas.
+
+- [Github](https://github.com/Anderson-Juhasc)
+- [Facebook](https://www.facebook.com/anderson.juhasc)
+
 ## O que é Bitcoin?
 
 ![Bitcoin](/img/bitcoin.png "Bitcoin")
 
-Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessados que queiram se aventurar entendendo seu código ou mesmo propondo melhorias: 
+Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessados que queiram se aventurar entendendo sua fonte ou mesmo propondo melhorias: 
 
 - [Contribua via Github](https://github.com/bitcoin/bitcoin)
 
