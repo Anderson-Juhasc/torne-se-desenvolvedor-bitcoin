@@ -19,17 +19,20 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 
 ## Contribuindo via Github
 
-Bitcoin é um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para um desenvolvedor interessado que queria se aventurar em entender seu código-fonte ou mesmo propor uma melhoria. 
+Bitcoin é um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessado que queiram se aventurar em entender suas linhas do código-fonte ou mesmo propor melhorias: 
+
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 
 ## Construindo uma carteira Bitcoin com HTML e Javascript
 
-## Conclusão
+Construir uma carteira Bitcoin é muito simples e estarei mostrando como faze-lo com poucas linhas de Javascript e HTML, o código-fonte do exemplo pode ser encontrado neste mesmo repositório denominados index.html e main.js.
 
-## Bibliotecas
+### Bibliotecas utilizadas
 
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib)
 - [Browserify](http://browserify.org/)
+
+## Conclusão
 
 ## Referências
 
