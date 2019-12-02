@@ -8,6 +8,12 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 
 ## O que é Bitcoin?
 
+Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessados que queiram se aventurar entendendo suas linhas do código-fonte ou mesmo propor melhorias: 
+
+### Contribua via Github
+
+- [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+
 ## O que é Blockchain?
 
 ## Explorando Blocos(API's)
@@ -15,17 +21,11 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 - [chainFlyer](https://chainflyer.bitflyer.jp/)
 - [chainFlyer Docs](https://chainflyer.bitflyer.jp/API/docs)
 
-## Criando carteiras(Wallets)
-
-## Contribuindo via Github
-
-Bitcoin é um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessado que queiram se aventurar em entender suas linhas do código-fonte ou mesmo propor melhorias: 
-
-- [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+## Carteiras(Wallets)
 
 ## Construindo uma carteira Bitcoin com HTML e Javascript
 
-Construir uma carteira Bitcoin é muito simples e estarei mostrando como faze-lo com poucas linhas de Javascript e HTML, o código-fonte do exemplo pode ser encontrado neste mesmo repositório denominados index.html e main.js.
+Construir uma carteira Bitcoin é muito simples e estarei mostrando como faze-lo com poucas linhas de Javascript e HTML, o código-fonte do exemplo pode ser encontrado neste mesmo repositório denominados [index.html](https://github.com/Anderson-Juhasc/torne-se-desenvolvedor-bitcoin/blob/master/index.html) e [main.js](https://github.com/Anderson-Juhasc/torne-se-desenvolvedor-bitcoin/blob/master/main.js).
 
 ### Bibliotecas utilizadas
 
