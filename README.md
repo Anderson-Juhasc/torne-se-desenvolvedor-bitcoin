@@ -16,12 +16,12 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 
 ## O que é Blockchain?
 
-## Explorando Blocos(API's)
+### Explorando Blocos(API's)
 
 - [chainFlyer](https://chainflyer.bitflyer.jp/)
 - [chainFlyer Docs](https://chainflyer.bitflyer.jp/API/docs)
 
-## Carteiras(Wallets)
+## Carteiras(Livenet)
 
 **Desktop:**
 - [Bitcoin Core](https://bitcoin.org/pt_BR/download)
@@ -36,12 +36,23 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 - [Blockchain Wallet](https://blockchain.info/pt/wallet)
 
 **Hardware:**
-- [Trezor](https://www.bitcointrezor.com/)
-- [Ledger Wallet](https://www.ledgerwallet.com/)
+- [Trezor](https://trezor.io/)
+- [Ledger Wallet](https://www.ledger.com/)
 
 **Papel:**
 - [bitcoinpaperwallet.com](https://bitcoinpaperwallet.com/)
 - [bitaddress.org](https://www.bitaddress.org/)
+
+## Carteiras(Testnet)
+
+**Desktop:**
+- [Bitcoin Core](https://bitcoin.org/pt_BR/download)
+- [Electrum](https://electrum.org/#home)
+
+**Smartphone:**
+- [Coinomi](https://play.google.com/store/apps/details?id=com.coinomi.wallet)
+- [Mycelium](https://play.google.com/store/apps/details?id=com.mycelium.testnetwallet)
+- [Bitcoin Wallet](https://play.google.com/store/apps/details?id=de.schildbach.wallet_test)
 
 ## Construindo uma carteira Bitcoin com HTML e Javascript
 
