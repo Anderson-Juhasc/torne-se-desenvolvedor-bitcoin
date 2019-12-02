@@ -8,6 +8,8 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 
 Anderson Juhasc começou a trabalhar profissional desde 2009 como Desenvolvedor Front-End onde aprendeu inúmeros conceitos de Design para Web, pouco tempo depois foi se tornando cada vez mais um Desenvolvedor Full-Stack utilizando primeiramente da linguagem PHP, focando depois na linguagem Node.js e no mercado de Criptomoedas.
 
+#### Redes sociais:
+
 - [Github](https://github.com/Anderson-Juhasc)
 - [Facebook](https://www.facebook.com/anderson.juhasc)
 
@@ -28,7 +30,7 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 
 ## Carteiras(Wallets)
 
-### Livenet
+- [Criptografia de chave pública](https://pt.wikipedia.org/wiki/Criptografia_de_chave_p%C3%BAblica)
 
 #### Desktop:
 - [Bitcoin Core](https://bitcoin.org/pt_BR/download)
@@ -50,7 +52,7 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 - [bitcoinpaperwallet.com](https://bitcoinpaperwallet.com/)
 - [bitaddress.org](https://www.bitaddress.org/)
 
-### Testnet
+## Testnet
 
 #### Desktop:
 - [Bitcoin Core](https://bitcoin.org/pt_BR/download)
@@ -77,8 +79,3 @@ browserify main.js > bundle.js
 - [Browserify](http://browserify.org/)
 
 ## Conclusão
-
-## Referências
-
-- [Bitcoin](https://pt.wikipedia.org/wiki/Bitcoin)
-- [Criptografia de chave pública](https://pt.wikipedia.org/wiki/Criptografia_de_chave_p%C3%BAblica)
