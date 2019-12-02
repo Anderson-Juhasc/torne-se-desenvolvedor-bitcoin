@@ -8,11 +8,11 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 
 ## O que é Bitcoin?
 
-Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessados que queiram se aventurar entendendo suas linhas do código-fonte ou mesmo propor melhorias: 
+![Bitcoin](/img/bitcoin.png "Bitcoin")
 
-### Contribua via Github
+Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessados que queiram se aventurar entendendo seu código ou mesmo propondo melhorias: 
 
-- [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+- [Contribua via Github](https://github.com/bitcoin/bitcoin)
 
 ## O que é Blockchain?
 
@@ -22,6 +22,26 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 - [chainFlyer Docs](https://chainflyer.bitflyer.jp/API/docs)
 
 ## Carteiras(Wallets)
+
+**Desktop:**
+- [Bitcoin Core](https://bitcoin.org/pt_BR/download)
+- [Electrum](https://electrum.org/#home)
+
+**Smartphone:**
+- [Mycelium](https://mycelium.com/bitcoinwallet)
+- [Bitcoin Wallet](https://play.google.com/store/apps/details?id=de.schildbach.wallet&hl=pt_BR)
+
+**Website:**
+- [Bitgo](https://www.bitgo.com/)
+- [Blockchain Wallet](https://blockchain.info/pt/wallet)
+
+**Hardware:**
+- [Trezor](https://www.bitcointrezor.com/)
+- [Ledger Wallet](https://www.ledgerwallet.com/)
+
+**Papel:**
+- [bitcoinpaperwallet.com](https://bitcoinpaperwallet.com/)
+- [bitaddress.org](https://www.bitaddress.org/)
 
 ## Construindo uma carteira Bitcoin com HTML e Javascript
 
