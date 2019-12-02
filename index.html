@@ -11,7 +11,26 @@
   <h1>Chave Pública</h1>
   <img id="publicKeyImg">
   <p id="publicKey"></p>
-  <a href="https://live.blockcypher.com/btc-testnet/" id="explorer">Explorar</a>
+	<ul>
+		<li>
+			<a href="#" target="_blank" id="explorer">Explorador de Blocos</a>
+		</li>
+		<li>
+			<strong>Dados de Endereço:</strong>
+			<a href="#" target="_blank" id="address">https://api.blockcypher.com/v1/btc/test3/addrs/{{address}}</a>
+		</li>
+		<li>
+			<strong>Dados de Transação:</strong>
+			https://api.blockcypher.com/v1/btc/test3/txs/{{transaction}}
+		</li>
+		<li>
+			<strong>Dados de Bloco:</strong>
+			https://api.blockcypher.com/v1/btc/test3/blocks/{{block}}
+		</li>
+		<li>
+			<a href="https://chainflyer.bitflyer.jp/Block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f" target="_blank">Bloco Gênesis</a>
+		</li>
+	</ul>
   <script src="bundle.js"></script>
 </body>
 </html>

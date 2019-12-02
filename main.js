@@ -18,4 +18,8 @@ var pubImg = document.getElementById('publicKeyImg')
 pubImg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=' + segwitP2SH.address
 
 var explorer = document.getElementById('explorer')
-explorer.href = 'https://live.blockcypher.com/btc-testnet/' + segwitP2SH.address
+explorer.href = 'https://blockexplorer.one/btc/testnet/address/' + segwitP2SH.address
+
+var address = document.getElementById('address')
+address.textContent = 'https://api.blockcypher.com/v1/btc/test3/addrs/' + segwitP2SH.address
+address.href = 'https://api.blockcypher.com/v1/btc/test3/addrs/' + segwitP2SH.address
