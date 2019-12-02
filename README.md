@@ -10,20 +10,19 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 
 ## O que é Blockchain?
 
-## Como funciona?
-
-## Contribuindo via Github
-
-
-
-## Criando carteiras(Wallets)
-
-## Construindo uma carteira Bitcoin com HTML e Javascript
-
 ## Explorando Blocos(API's)
 
 - [chainFlyer](https://chainflyer.bitflyer.jp/)
 - [chainFlyer Docs](https://chainflyer.bitflyer.jp/API/docs)
+
+## Criando carteiras(Wallets)
+
+## Contribuindo via Github
+
+Bitcoin é um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para um desenvolvedor interessado que queria se aventurar em entender seu código-fonte ou mesmo propor uma melhoria. 
+- [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+
+## Construindo uma carteira Bitcoin com HTML e Javascript
 
 ## Conclusão
 
