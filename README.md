@@ -85,5 +85,3 @@ browserify main.js > bundle.js
 
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib)
 - [Browserify](http://browserify.org/)
-
-## Conclusão
