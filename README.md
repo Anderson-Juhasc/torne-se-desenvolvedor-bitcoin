@@ -15,7 +15,7 @@ Anderson Juhasc começou a trabalhar profissional desde 2009 como Desenvolvedor 
 
 ## O que é Bitcoin?
 
-![Bitcoin](/img/bitcoin.png "Bitcoin")
+![Bitcoin](/img/bitcoin.png)
 
 Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como o projeto Linux ou qualquer outro ele é aberto para desenvolvedores interessados que queiram se aventurar entendendo sua fonte ou mesmo propondo melhorias: 
 
@@ -23,9 +23,11 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 
 ## O que é Blockchain?
 
+![Blockchain](/img/tipos-de-redes.jpg)
+
 O Blockchain(livro-razão) é um banco de dados distribuído onde transações são verificadas pelos nós da rede P2P para evitar gastos duplos antes de serem registrados no banco e redistribuidos para os nós de rede ativos.
 
-#### Explorado de Blocos(API's)
+#### Explorador de Blocos(API's):
 
 É possível explorar os dados de transações passadas para verificar existência de bitcoin em uma carteira: 
 
@@ -33,6 +35,8 @@ O Blockchain(livro-razão) é um banco de dados distribuído onde transações s
 - [chainFlyer Docs](https://chainflyer.bitflyer.jp/API/docs)
 
 ## Carteiras(Wallets)
+
+![Carteiras](/img/paper-wallet.jpg)
 
 Uma carteira de bitcoin é simplesmente 2 pedaços de texto, sendo uma chave publica e uma chave privada onde a chave publica é utilizada para verificar ou receber saldo e a chave privada é usada para enviar saldo e garantir quem é o dono dos bitcoins no endereço recebido.
 
