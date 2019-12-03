@@ -6,7 +6,7 @@ Assim como a internet mudou a maneira de enviarmos correspondências pelo mundo 
 
 ## Sobre o Ministrando
 
-Anderson Juhasc começou a trabalhar profissional desde 2009 como Desenvolvedor Front-End onde aprendeu inúmeros conceitos de Design para Web, pouco tempo depois foi se tornando cada vez mais um Desenvolvedor Full-Stack utilizando primeiramente da linguagem PHP, focando depois na linguagem Node.js e no mercado de Criptomoedas.
+Anderson Juhasc começou a trabalhar profissional desde 2009 como Desenvolvedor Front-End onde também aprendeu inúmeros conceitos de Design para Web, pouco tempo depois foi se tornando cada vez mais um Desenvolvedor Full-Stack utilizando primeiramente da linguagem PHP, focando depois na linguagem Node.js e no mercado de Criptomoedas.
 
 #### Redes sociais:
 
@@ -23,12 +23,18 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 
 ## O que é Blockchain?
 
+O Blockchain(livro-razão) é um banco de dados distribuído onde transações são verificadas pelos nós da rede P2P para evitar gastos duplos antes de serem registrados no banco e redistribuidos para os nós de rede ativos.
+
 #### Explorado de Blocos(API's)
+
+É possível explorar os dados de transações passadas para verificar existência de bitcoin em uma carteira: 
 
 - [chainFlyer](https://chainflyer.bitflyer.jp/)
 - [chainFlyer Docs](https://chainflyer.bitflyer.jp/API/docs)
 
 ## Carteiras(Wallets)
+
+Uma carteira de bitcoin é simplesmente 2 pedaços de texto, sendo uma chave publica e uma chave privada onde a chave publica é utilizada para verificar ou receber saldo e a chave privada é usada para enviar saldo e garantir quem é o dono dos bitcoins no endereço recebido.
 
 - [Criptografia de chave pública](https://pt.wikipedia.org/wiki/Criptografia_de_chave_p%C3%BAblica)
 
@@ -52,7 +58,9 @@ Bitcoin é uma criptomoeda e um projeto opensource, escrito em C++ e assim como 
 - [bitcoinpaperwallet.com](https://bitcoinpaperwallet.com/)
 - [bitaddress.org](https://www.bitaddress.org/)
 
-## Testnet
+## Rede de testes(Testnet3)
+
+A rede Testnet3 é uma rede alternativa para desenvolvedores realizarem testes antes de colocarem uma aplicação em produção, segue algumas carteiras:
 
 #### Desktop:
 - [Bitcoin Core](https://bitcoin.org/pt_BR/download)
