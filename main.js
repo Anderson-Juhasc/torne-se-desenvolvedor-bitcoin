@@ -14,6 +14,9 @@ prvImg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=' + 
 var pub = document.getElementById('publicKey')
 pub.textContent = segwitP2SH.address
 
+var pubLink = document.getElementById('publicKeyLink')
+pubLink.href = 'bitcoin:' + segwitP2SH.address
+
 var pubImg = document.getElementById('publicKeyImg')
 pubImg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=' + segwitP2SH.address
 

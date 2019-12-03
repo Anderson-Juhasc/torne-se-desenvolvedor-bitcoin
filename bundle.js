@@ -15,6 +15,9 @@ prvImg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=' + 
 var pub = document.getElementById('publicKey')
 pub.textContent = segwitP2SH.address
 
+var pubLink = document.getElementById('publicKeyLink')
+pubLink.href = 'bitcoin:' + segwitP2SH.address
+
 var pubImg = document.getElementById('publicKeyImg')
 pubImg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=' + segwitP2SH.address
 
@@ -15295,7 +15298,7 @@ module.exports={
   "_args": [
     [
       "elliptic@^6.4.0",
-      "/home/dragonex/projects/bitcoin-desenvolvedor/node_modules/tiny-secp256k1"
+      "/home/dragonex/projects/torne-se-desenvolvedor-bitcoin/node_modules/tiny-secp256k1"
     ]
   ],
   "_from": "elliptic@>=6.4.0 <7.0.0",
@@ -15330,7 +15333,7 @@ module.exports={
   "_shasum": "05c5678d7173c049d8ca433552224a495d0e3762",
   "_shrinkwrap": null,
   "_spec": "elliptic@^6.4.0",
-  "_where": "/home/dragonex/projects/bitcoin-desenvolvedor/node_modules/tiny-secp256k1",
+  "_where": "/home/dragonex/projects/torne-se-desenvolvedor-bitcoin/node_modules/tiny-secp256k1",
   "author": {
     "email": "fedor@indutny.com",
     "name": "Fedor Indutny"
