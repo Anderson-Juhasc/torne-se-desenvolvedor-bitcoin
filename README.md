@@ -82,6 +82,10 @@ Construir uma carteira Bitcoin é muito simples e estarei mostrando como faze-lo
 #### Compilação:
 
 ```
+npm install
+```
+
+```
 browserify main.js > bundle.js
 ```
 
